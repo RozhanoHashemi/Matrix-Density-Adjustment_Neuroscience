@@ -4,7 +4,7 @@ MATLAB Code for Matrix Density Adjustment
 
 Description:
 
-This MATLAB code provides a versatile tool for adjusting the density of an arbitrary matrix. It accepts a matrix A and a desired density value and returns a new matrix B with the specified density. The code employs a flexible approach that either prunes smaller elements to reduce density or adds small elements to increase density, ensuring the desired target is achieved.
+This MATLAB code provides a versatile tool for adjusting the density of an arbitrary matrix. It accepts a matrix "mat" and a desired density value and returns a new matrix "out" with the specified density. The code employs a flexible approach that either prunes smaller elements to reduce density or adds small elements to increase density, ensuring the desired target is achieved.
 
 Features:
 
